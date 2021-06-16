@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\bin\Debug\Database Systems Project.exe.config
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\bin\Debug\Database Systems Project.exe
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\bin\Debug\Database Systems Project.pdb
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database Systems Project.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database_Systems_Project.Properties.Resources.resources
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database Systems Project.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database Systems Project.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database Systems Project.exe
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database Systems Project.pdb
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database_Systems_Project.FORMS.RegisterForm.resources
+C:\Users\pc\source\repos\Database Systems Project\Database Systems Project\Database Systems Project\obj\Debug\Database_Systems_Project.FORMS.EnterForm.resources
